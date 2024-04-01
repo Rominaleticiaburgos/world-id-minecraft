@@ -1,4 +1,6 @@
 # Minecraft World ID Server Plugin
+6
+.4
 
 A plugin for the spigot Minecraft server that can be used to grant users permissions when they verify with World ID. Intended to be used with [LuckPerms](https://luckperms.net/).
 
